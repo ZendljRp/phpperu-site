@@ -1,0 +1,106 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassSy2VPH\.sass}line{font-family:\000034}}
+.rich-content p {
+  line-height: 1.5em;
+  margin: 1em 0.4em;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassSy2VPH\.sass}line{font-family:\000037}}
+.rich-content pre {
+  font-size: 0.9em;
+  line-height: 1.4em;
+  padding: 1em 0 1em 1em;
+  background-color: black;
+  color: white;
+  border: 1px solid #888888;
+  overflow: auto;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassSy2VPH\.sass}line{font-family:\0000315}}
+.rich-content tt {
+  font-family: "Courier New", monospace;
+  font-size: 0.9em;
+  border: 1px solid #dddddd;
+  background-color: #e8e8e8;
+  padding: 0 0.2em;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassSy2VPH\.sass}line{font-family:\0000322}}
+.rich-content span.k {
+  color: #0099ff;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassSy2VPH\.sass}line{font-family:\0000324}}
+.rich-content span.nv {
+  color: #ff9900;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassSy2VPH\.sass}line{font-family:\0000326}}
+.rich-content span.s1, .rich-content span.s2, .rich-content span.mi {
+  color: #99ff00;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassSy2VPH\.sass}line{font-family:\0000328}}
+.rich-content span.p {
+  color: #006699;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassSy2VPH\.sass}line{font-family:\0000330}}
+.rich-content span.nt {
+  color: #0099ff;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassSy2VPH\.sass}line{font-family:\0000332}}
+.rich-content span.na {
+  color: #ff9900;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassSy2VPH\.sass}line{font-family:\0000334}}
+.rich-content span.s {
+  color: #99ff00;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassSy2VPH\.sass}line{font-family:\0000336}}
+.rich-content span.c1, .rich-content span.cp {
+  color: #888888;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassSy2VPH\.sass}line{font-family:\0000338}}
+.rich-content ul {
+  list-style-type: disc;
+  padding-left: 2em;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassSy2VPH\.sass}line{font-family:\0000341}}
+.rich-content li {
+  line-height: 1.5em;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassSy2VPH\.sass}line{font-family:\0000344}}
+.rich-content h2, .rich-content h3 {
+  margin: 1em 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassSy2VPH\.sass}line{font-family:\0000347}}
+.rich-content .warning {
+  border: 1px solid #dd9999;
+  background-color: #ffdddd;
+  margin: 1em 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassSy2VPH\.sass}line{font-family:\0000351}}
+.rich-content .warning p {
+  margin: 0.4em;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassSy2VPH\.sass}line{font-family:\0000353}}
+.rich-content .warning p.first {
+  font-weight: bold;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassSy2VPH\.sass}line{font-family:\0000355}}
+.rich-content table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1em 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassSy2VPH\.sass}line{font-family:\0000359}}
+.rich-content table td {
+  padding: 0.4em 0.4em;
+  border: 1px solid #bbbbbb;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassSy2VPH\.sass}line{font-family:\0000362}}
+.rich-content table th {
+  padding: 0.4em 0.4em;
+  border: 1px solid #bbbbbb;
+  background-color: #efefef;
+  font-weight: bold;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassSy2VPH\.sass}line{font-family:\0000368}}
+.rich-content img.float-left {
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 5px;
+}

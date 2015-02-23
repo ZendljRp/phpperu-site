@@ -1,0 +1,95 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassfNo0vo\.sass}line{font-family:\000034}}
+.page-post-view h1 {
+  text-align: center;
+  margin: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassfNo0vo\.sass}line{font-family:\000037}}
+.page-post-view .post-date {
+  text-align: center;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassfNo0vo\.sass}line{font-family:\0000310}}
+.blog-post-history {
+  padding-bottom: 1em;
+  overflow: hidden;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassfNo0vo\.sass}line{font-family:\0000313}}
+.blog-post-history .next {
+  float: right;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassfNo0vo\.sass}line{font-family:\0000315}}
+.blog-post-history .previous {
+  float: left;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassfNo0vo\.sass}line{font-family:\0000317}}
+.blog-post-history a {
+  background-color: #cccccc;
+  color: black;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassfNo0vo\.sass}line{font-family:\0000321}}
+.blog-post-comments {
+  margin: 20px 0;
+  border-top: 1px solid #bbbbbb;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassfNo0vo\.sass}line{font-family:\0000325}}
+.blog-post-comments p.author {
+  font-family: Georgia;
+  font-size: 1.2em;
+  margin: 15px 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassfNo0vo\.sass}line{font-family:\0000329}}
+.blog-post-comments p.body {
+  padding-left: 15px;
+  padding-bottom: 15px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassfNo0vo\.sass}line{font-family:\0000332}}
+.blog-post-comments .comment {
+  padding-top: 15px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassfNo0vo\.sass}line{font-family:\0000334}}
+.blog-post-comments .comment .body {
+  line-height: 1.3em;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassfNo0vo\.sass}line{font-family:\0000336}}
+.blog-post-comments p.author em {
+  font-size: 0.7em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassfNo0vo\.sass}line{font-family:\0000341}}
+form.post-comment h2 {
+  font-size: 1.4em;
+  font-family: Georgia;
+  padding-bottom: 1em;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassfNo0vo\.sass}line{font-family:\0000346}}
+form.post-comment p.confirmation {
+  color: #00aa00;
+  font-size: 1.2em;
+  font-weight: bold;
+  text-align: center;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassfNo0vo\.sass}line{font-family:\0000353}}
+.no-comments {
+  text-align: center;
+  padding: 15px 0;
+  font-family: Georgia;
+  font-size: 1.4em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassfNo0vo\.sass}line{font-family:\0000359}}
+.comment-actions {
+  float: right;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassfNo0vo\.sass}line{font-family:\0000362}}
+.comment-inactive {
+  color: #aaaaaa;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassfNo0vo\.sass}line{font-family:\0000365}}
+.blog-post-actions {
+  text-align: right;
+  padding-bottom: 40px;
+}

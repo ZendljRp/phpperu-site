@@ -1,0 +1,22 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassFSaHMr\.sass}line{font-family:\000031}}
+body, div, p, ul, ol, li, pre, h1, h2, h3, h4, h5, h6, table, tbody, thead, tfoot, tr, th, td dt, dl, dd, form {
+  margin: 0;
+  padding: 0;
+  line-height: 1em;
+  font-size: 1em;
+  font-weight: normal;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassFSaHMr\.sass}line{font-family:\000038}}
+a {
+  text-decoration: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassFSaHMr\.sass}line{font-family:\0000310}}
+a:hover {
+  text-decoration: underline;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassFSaHMr\.sass}line{font-family:\0000313}}
+ol, ul {
+  list-style-type: none;
+}

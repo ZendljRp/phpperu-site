@@ -1,0 +1,76 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassZKd5eI\.sass}line{font-family:\000031}}
+#post-edit {
+  background: none;
+  padding: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassZKd5eI\.sass}line{font-family:\000035}}
+#form-body-edit {
+  border: 1px solid #aaaaaa;
+  padding: 10px;
+  background-color: #e8e8e8;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassZKd5eI\.sass}line{font-family:\0000310}}
+#post_body {
+  height: 250px;
+  font-size: 20px;
+  font-family: "Courier New", "monospace";
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassZKd5eI\.sass}line{font-family:\0000315}}
+#post-body-preview {
+  height: 250px;
+  overflow: auto;
+  background-color: white;
+  border: 1px solid #bbbbbb;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassZKd5eI\.sass}line{font-family:\0000321}}
+#post-body-actions {
+  padding: 10px 0;
+}
+
+/*Fullscreen */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassZKd5eI\.sass}line{font-family:\0000326}}
+#form-body-edit.fullscreen {
+  border: 0;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassZKd5eI\.sass}line{font-family:\0000333}}
+#form-body-edit.fullscreen label {
+  display: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassZKd5eI\.sass}line{font-family:\0000335}}
+#form-body-edit.fullscreen #post-body-preview {
+  border: 1px solid #bbbbbb;
+  background: white;
+  overflow: auto;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  width: 900px;
+  bottom: 50px;
+  height: auto;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassZKd5eI\.sass}line{font-family:\0000345}}
+#form-body-edit.fullscreen textarea {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  bottom: 50px;
+  width: 800px;
+  height: auto;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassZKd5eI\.sass}line{font-family:\0000352}}
+#form-body-edit.fullscreen #post-body-actions {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 10px;
+}

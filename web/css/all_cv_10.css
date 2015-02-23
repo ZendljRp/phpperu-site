@@ -1,0 +1,56 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassYvH87z\.sass}line{font-family:\000034}}
+.page-main-cv a {
+  color: #ff8800;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassYvH87z\.sass}line{font-family:\000036}}
+.page-main-cv p {
+  line-height: 1.5em;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassYvH87z\.sass}line{font-family:\000038}}
+.page-main-cv h2 {
+  margin-right: 10px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassYvH87z\.sass}line{font-family:\0000310}}
+.page-main-cv dl {
+  margin-bottom: 20px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassYvH87z\.sass}line{font-family:\0000313}}
+.page-main-cv dd p {
+  margin-top: 0.5em;
+  margin-top: 0.2em;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassYvH87z\.sass}line{font-family:\0000316}}
+.page-main-cv dt {
+  color: #222222;
+  margin-top: 0.4em;
+  padding: 0.4em 0.6em;
+  border: 1px solid white;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassYvH87z\.sass}line{font-family:\0000321}}
+.page-main-cv .more {
+  display: inline-block;
+  width: 1em;
+  text-align: center;
+  color: #ff8800;
+  font-weight: bold;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassYvH87z\.sass}line{font-family:\0000327}}
+.page-main-cv dt.active {
+  margin-right: 10px;
+  border-bottom: 1px solid #ff8800;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassYvH87z\.sass}line{font-family:\0000330}}
+.page-main-cv dd {
+  margin-right: 10px;
+  line-height: 1.3em;
+  padding: 0.3em 3em 0 1em;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassYvH87z\.sass}line{font-family:\0000334}}
+.page-main-cv ul {
+  padding-left: 2em;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassYvH87z\.sass}line{font-family:\0000336}}
+.page-main-cv li {
+  line-height: 1.2em;
+  list-style-type: circle;
+}

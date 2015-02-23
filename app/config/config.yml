@@ -1,0 +1,91 @@
+imports:
+    - { resource: parameters.yml }
+    - { resource: security.yml }
+
+parameters:
+    test.client.class: Alom\WebsiteBundle\Test\Client
+    rss_address:       http://feeds.feedburner.com/phpperu/NXxk
+    rss_title:         "Blog posts from the @php_peru"
+    # Assetic
+    #assetic.filter.compass.images_dir: %kernel.root_dir%/../web/images
+    #assetic.filter.compass.http_path:  /
+
+framework:
+    #esi:             ~
+    #translator:      { fallback: %locale% }
+    secret:          %secret%
+    router:
+        resource: "%kernel.root_dir%/config/routing.yml"
+        strict_requirements: ~
+    form:            ~
+    csrf_protection: ~
+    validation:      { enable_annotations: true }
+    templating:
+        engines: ['twig']
+        #assets_version: SomeVersionScheme
+        assets_version: %assets_version%
+        assets_base_urls: { http: [ http://%static_host% ], ssl: [ https://%static_host% ] }
+    default_locale:  "%locale%"
+    trusted_proxies: ~
+    session:         ~
+    fragments:       ~
+    http_method_override: true
+
+# Twig Configuration
+twig:
+    form:
+      resources: [ "::forms.html.twig" ]
+    debug:            %kernel.debug%
+    strict_variables: %kernel.debug%
+
+# Assetic Configuration
+assetic:
+    debug:          %kernel.debug%
+    use_controller: false
+    bundles:        [ AlomWebsiteBundle ]
+    # java: /usr/bin/java
+    filters:
+        cssrewrite: ~
+        yui_js:     { jar: %yui_compiler_path% }
+        yui_css:    { jar: %yui_compiler_path% }
+        sass: ~
+        #compass:
+        #    #bin: /home/cordoval/.rvm/gems/ruby-1.9.2-p290/bin/compass
+        #    bin: %compass_bin_path%
+
+# Doctrine Configuration
+doctrine:
+    dbal:
+        driver:   %database_driver%
+        host:     %database_host%
+        port:     %database_port%
+        dbname:   %database_name%
+        user:     %database_user%
+        password: %database_password%
+        charset:  UTF8
+
+    orm:
+        auto_generate_proxy_classes: %kernel.debug%
+        auto_mapping: true
+
+# Swiftmailer Configuration
+swiftmailer:
+    transport: %mailer_transport%
+    host:      %mailer_host%
+    username:  %mailer_user%
+    password:  %mailer_password%
+    spool:     { type: memory }
+
+jms_security_extra:
+    secure_all_services: false
+
+liip_imagine:
+    filter_sets:
+        book_thumb:
+            filters:
+                thumbnail: { size: [200, 200], mode: inset }
+        book_mini:
+            filters:
+                thumbnail: { size: [100, 100], mode: inset }
+
+gregwar_captcha: ~

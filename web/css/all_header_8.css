@@ -1,0 +1,52 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compasspKsPW9\.sass}line{font-family:\000036}}
+#header-wrapper {
+  background-color: white;
+  text-align: center;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compasspKsPW9\.sass}line{font-family:\0000310}}
+#header {
+  text-align: left;
+  margin: 0 auto;
+  width: 960px;
+  height: 60px;
+  position: relative;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compasspKsPW9\.sass}line{font-family:\0000317}}
+#header a {
+  color: #202020;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compasspKsPW9\.sass}line{font-family:\0000320}}
+#header a.active, #header a:hover {
+  color: #ff8800;
+  text-decoration: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compasspKsPW9\.sass}line{font-family:\0000324}}
+#header h1 {
+  font-family: Georgia, "serif";
+  font-size: 40px;
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compasspKsPW9\.sass}line{font-family:\0000331}}
+#header h1 a {
+  color: #202020;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compasspKsPW9\.sass}line{font-family:\0000334}}
+#header h1.active a {
+  color: #ff8800;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compasspKsPW9\.sass}line{font-family:\0000337}}
+#header ul {
+  font-family: Georgia, "serif";
+  position: absolute;
+  bottom: 0;
+  left: 480px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compasspKsPW9\.sass}line{font-family:\0000343}}
+#header ul li {
+  font-size: 24px;
+  float: left;
+  margin-right: 1em;
+}

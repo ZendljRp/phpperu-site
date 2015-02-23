@@ -1,0 +1,16 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassQiDoyt\.sass}line{font-family:\000031}}
+.col-parent {
+  clear: both;
+  overflow: hidden;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassQiDoyt\.sass}line{font-family:\000035}}
+.col-clear {
+  clear: both;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassQiDoyt\.sass}line{font-family:\000038}}
+.col-1-2 {
+  float: left;
+  width: 50%;
+}

@@ -1,0 +1,62 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/cordoval\/sites-2\/phpperu\/src\/Alom\/WebsiteBundle\/Resources\/assets\/css\/common\.sass}line{font-family:\0000329}}
+.page-main-homepage dl {
+  padding-top: 20px;
+  padding-right: 20px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/cordoval\/sites-2\/phpperu\/src\/Alom\/WebsiteBundle\/Resources\/assets\/css\/common\.sass}line{font-family:\0000332}}
+.page-main-homepage dl dt {
+  font-weight: bold;
+  line-height: 1.4em;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/cordoval\/sites-2\/phpperu\/src\/Alom\/WebsiteBundle\/Resources\/assets\/css\/common\.sass}line{font-family:\0000335}}
+.page-main-homepage dl dd {
+  padding-bottom: 10px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compasssOmmtP\.sass}line{font-family:\000036}}
+.page-main-homepage .block-last-books {
+  padding: 20px 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compasssOmmtP\.sass}line{font-family:\000039}}
+.page-main-homepage .block-last-books img {
+  border: 1px solid #bbbbbb;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compasssOmmtP\.sass}line{font-family:\0000312}}
+.page-main-homepage .block-last-books .very-last {
+  padding-bottom: 20px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compasssOmmtP\.sass}line{font-family:\0000313}}
+.page-main-homepage .block-last-books .very-last table {
+  width: 100%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compasssOmmtP\.sass}line{font-family:\0000315}}
+.page-main-homepage .block-last-books .very-last table td {
+  height: 200px;
+  text-align: center;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compasssOmmtP\.sass}line{font-family:\0000320}}
+.page-main-homepage .block-last-books .others {
+  overflow: hidden;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compasssOmmtP\.sass}line{font-family:\0000322}}
+.page-main-homepage .block-last-books .others .book {
+  width: 112px;
+  float: left;
+  text-align: center;
+  height: 100px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compasssOmmtP\.sass}line{font-family:\0000327}}
+.page-main-homepage .block-last-books .others .book table {
+  width: 100%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compasssOmmtP\.sass}line{font-family:\0000329}}
+.page-main-homepage .block-last-books .others .book table td {
+  height: 100px;
+  text-align: center;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compasssOmmtP\.sass}line{font-family:\0000333}}
+.page-main-homepage .block-more a {
+  color: #ff8800;
+  font-size: 24px;
+  line-height: 2em;
+  font-family: Georgia, "serif";
+}

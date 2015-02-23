@@ -1,0 +1,44 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassZXWtJP\.sass}line{font-family:\000033}}
+body {
+  font-size: 15px;
+  font-family: Arial, Helvetica, "sans-serif";
+  background-color: #202020;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassZXWtJP\.sass}line{font-family:\000038}}
+#content-wrapper {
+  background-color: white;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassZXWtJP\.sass}line{font-family:\0000314}}
+#content {
+  text-align: left;
+  margin: 0 auto;
+  width: 960px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassZXWtJP\.sass}line{font-family:\0000319}}
+#content h1 {
+  padding-bottom: 20px;
+  font-family: Georgia, "serif";
+  font-size: 32px;
+  margin: 0.4em 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassZXWtJP\.sass}line{font-family:\0000325}}
+#content h2 {
+  font-size: 24px;
+  font-family: Georgia, "serif";
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassZXWtJP\.sass}line{font-family:\0000329}}
+#content h3 {
+  font-family: Georgia, "serif";
+  font-size: 20px;
+  font-weight: bold;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassZXWtJP\.sass}line{font-family:\0000334}}
+a, a:visited {
+  color: #007eb2;
+}

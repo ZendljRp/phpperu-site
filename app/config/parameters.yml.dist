@@ -1,0 +1,19 @@
+parameters:
+    database_driver: pdo_mysql
+    database_port: ~
+    database_host: localhost
+    database_name: phpperu
+    database_name_test: phpperu_test
+    database_user: root
+    database_password: null
+    mailer_user: x
+    mailer_password: x
+    mailer_transport: gmail
+    mailer_host: smtp.gmail.com
+    comment_mail: cordoval@gmail.com
+    rss_token: rsstoken
+    static_host: phpperu.org
+    secret: some_unknown
+    yui_compiler_path: /Users/cordoval/Sites/yuicompressor/build/yuicompressor-2.4.7.jar
+    assets_version: 1.0
+    locale: en

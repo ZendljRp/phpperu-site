@@ -1,0 +1,166 @@
+/*Button set */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassgHhDuB\.sass}line{font-family:\000033}}
+.button-set {
+  padding: 2em 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassgHhDuB\.sass}line{font-family:\000035}}
+.button-set .button {
+  line-height: 1em;
+  margin-right: 10px;
+  margin-bottom: 15px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassgHhDuB\.sass}line{font-family:\0000310}}
+.button {
+  color: black;
+  display: inline-block;
+  outline: none;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 0.5em 0.7em;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+  -webkit-border-radius: 0.5em;
+  -moz-border-radius: 0.5em;
+  border-radius: 0.5em;
+  -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+  color: black;
+  border: solid 1px #aaaaaa;
+  background: #eeeeee;
+  background: -webkit-gradient(linear, left top, left bottom, from(#f4f4f4), to(#dddddd));
+  background: -moz-linear-gradient(top, #f4f4f4, #dddddd);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f4f4f4', endColorstr='#dddddd');
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassgHhDuB\.sass}line{font-family:\0000329}}
+.button:hover {
+  background: -webkit-gradient(linear, left top, left bottom, from(white), to(#eeeeee));
+  background: -moz-linear-gradient(top, white, #f0f0f0);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#f0f0f0');
+}
+
+/* Default : grey */
+/* Hidden */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassgHhDuB\.sass}line{font-family:\0000338}}
+.button-hidden {
+  color: #888888;
+  border: dashed 1px #cccccc;
+  background: #eeeeee;
+  background: -webkit-gradient(linear, left top, left bottom, from(white), to(#eeeeee));
+  background: -moz-linear-gradient(top, #f4f4f4, #dddddd);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f4f4f4', endColorstr='#dddddd');
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassgHhDuB\.sass}line{font-family:\0000345}}
+.button-hidden:hover {
+  background: -webkit-gradient(linear, left top, left bottom, from(white), to(#eeeeee));
+  background: -moz-linear-gradient(top, white, #f0f0f0);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#f0f0f0');
+}
+
+/*Green */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassgHhDuB\.sass}line{font-family:\0000352}}
+.button-green {
+  color: white;
+  border: solid 1px #228822;
+  background: #66dd66;
+  background: -webkit-gradient(linear, left top, left bottom, from(#66dd66), to(#228822));
+  background: -moz-linear-gradient(top, #60d060, #208020);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#6d6', endColorstr='#282');
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassgHhDuB\.sass}line{font-family:\0000359}}
+.button-green:hover {
+  background: -webkit-gradient(linear, left top, left bottom, from(#80e080), to(#409040));
+  background: -moz-linear-gradient(top, #80e080, #409040);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#8e8', endColorstr='#494');
+}
+
+/*Red */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassgHhDuB\.sass}line{font-family:\0000366}}
+.button-red {
+  color: white;
+  border: solid 1px #882222;
+  background: #dd6666;
+  background: -webkit-gradient(linear, left top, left bottom, from(#dd6666), to(#882222));
+  background: -moz-linear-gradient(top, #d06060, #802020);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#d66', endColorstr='#822');
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassgHhDuB\.sass}line{font-family:\0000373}}
+.button-red:hover {
+  background: -webkit-gradient(linear, left top, left bottom, from(#e08080), to(#904040));
+  background: -moz-linear-gradient(top, #e08080, #904040);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#e88', endColorstr='#944');
+}
+
+/*Blue */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassgHhDuB\.sass}line{font-family:\0000380}}
+.button-blue {
+  color: white;
+  border: solid 1px #222288;
+  background: #6666dd;
+  background: -webkit-gradient(linear, left top, left bottom, from(#6666dd), to(#222288));
+  background: -moz-linear-gradient(top, #6060d0, #202080);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#66d', endColorstr='#228');
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassgHhDuB\.sass}line{font-family:\0000387}}
+.button-blue:hover {
+  background: -webkit-gradient(linear, left top, left bottom, from(#8080e0), to(#404090));
+  background: -moz-linear-gradient(top, #8080e0, #404090);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#88e', endColorstr='#449');
+}
+
+/*Small buttons */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassgHhDuB\.sass}line{font-family:\0000394}}
+.button-small {
+  font-size: 0.8em;
+  padding: 0.3em 0.6em;
+}
+
+/* Add */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassgHhDuB\.sass}line{font-family:\00003100}}
+.button-add {
+  color: white;
+  border: solid 1px #228822;
+  background: #66dd66;
+  background: -webkit-gradient(linear, left top, left bottom, from(#66dd66), to(#228822));
+  background: -moz-linear-gradient(top, #60d060, #208020);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#6d6', endColorstr='#282');
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassgHhDuB\.sass}line{font-family:\00003107}}
+.button-add:hover {
+  background: -webkit-gradient(linear, left top, left bottom, from(#80e080), to(#409040));
+  background: -moz-linear-gradient(top, #80e080, #409040);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#8e8', endColorstr='#494');
+}
+
+/* Edit */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassgHhDuB\.sass}line{font-family:\00003114}}
+.button-edit {
+  color: white;
+  border: solid 1px #222288;
+  background: #6666dd;
+  background: -webkit-gradient(linear, left top, left bottom, from(#6666dd), to(#222288));
+  background: -moz-linear-gradient(top, #6060d0, #202080);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#66d', endColorstr='#228');
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassgHhDuB\.sass}line{font-family:\00003121}}
+.button-edit:hover {
+  background: -webkit-gradient(linear, left top, left bottom, from(#8080e0), to(#404090));
+  background: -moz-linear-gradient(top, #8080e0, #404090);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#88e', endColorstr='#449');
+}
+
+/* Delete */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassgHhDuB\.sass}line{font-family:\00003128}}
+.button-delete {
+  color: white;
+  border: solid 1px #882222;
+  background: #dd6666;
+  background: -webkit-gradient(linear, left top, left bottom, from(#dd6666), to(#882222));
+  background: -moz-linear-gradient(top, #d06060, #802020);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#d66', endColorstr='#822');
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/tmp\/assetic_compassgHhDuB\.sass}line{font-family:\00003135}}
+.button-delete:hover {
+  background: -webkit-gradient(linear, left top, left bottom, from(#e08080), to(#904040));
+  background: -moz-linear-gradient(top, #e08080, #904040);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#e88', endColorstr='#944');
+}
